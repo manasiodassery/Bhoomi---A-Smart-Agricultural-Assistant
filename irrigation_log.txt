@@ -1,0 +1,54 @@
+2024-11-09 11:52:17.197018: Triggered on Day 6, Moisture Level: 1125, Reason: Significant drop
+2024-11-09 11:52:17.197018: Triggered on Day 17, Moisture Level: 756, Reason: Significant drop
+2024-11-09 11:52:17.197018: Triggered on Day 20, Moisture Level: 645, Reason: Significant drop
+2024-11-09 11:52:17.197018: Triggered on Day 22, Moisture Level: 542, Reason: Significant drop
+2024-11-09 11:52:17.205823: Triggered on Day 24, Moisture Level: 426, Reason: Low moisture
+2024-11-09 11:52:17.206834: Triggered on Day 25, Moisture Level: 400, Reason: Low moisture
+2024-11-09 11:52:17.207686: Triggered on Day 26, Moisture Level: 385, Reason: Low moisture
+2024-11-09 11:52:17.209609: Triggered on Day 27, Moisture Level: 376, Reason: Low moisture
+2024-11-09 11:52:17.210607: Triggered on Day 28, Moisture Level: 298, Reason: Low moisture
+2024-11-09 11:52:17.210607: Triggered on Day 29, Moisture Level: 200, Reason: Low moisture
+2024-11-09 11:52:17.211618: Triggered on Day 30, Moisture Level: 189, Reason: Low moisture
+2024-11-09 11:52:17.212537: Triggered on Moisture Level: 350.0, Reason: Low moisture
+2024-11-09 11:52:17.213845: Triggered on Time 6.0h, Moisture Level: 700.0, Reason: Preferred time
+2024-11-09 22:50:30.038631: Triggered on Day 6, Moisture Level: 1125, Reason: Significant drop
+2024-11-09 22:50:30.038631: Triggered on Day 17, Moisture Level: 756, Reason: Significant drop
+2024-11-09 22:50:30.038631: Triggered on Day 20, Moisture Level: 645, Reason: Significant drop
+2024-11-09 22:50:30.038631: Triggered on Day 22, Moisture Level: 542, Reason: Significant drop
+2024-11-09 22:50:30.038631: Triggered on Day 24, Moisture Level: 426, Reason: Low moisture
+2024-11-09 22:50:30.038631: Triggered on Day 25, Moisture Level: 400, Reason: Low moisture
+2024-11-09 22:50:30.038631: Triggered on Day 26, Moisture Level: 385, Reason: Low moisture
+2024-11-09 22:50:30.038631: Triggered on Day 27, Moisture Level: 376, Reason: Low moisture
+2024-11-09 22:50:30.038631: Triggered on Day 28, Moisture Level: 298, Reason: Low moisture
+2024-11-09 22:50:30.038631: Triggered on Day 29, Moisture Level: 200, Reason: Low moisture
+2024-11-09 22:50:30.038631: Triggered on Day 30, Moisture Level: 189, Reason: Low moisture
+2024-11-09 22:50:30.054252: Triggered on Moisture Level: 350.0, Reason: Low moisture
+2024-11-09 22:50:30.055894: Triggered on Time 6.0h, Moisture Level: 700.0, Reason: Preferred time
+2024-11-09 22:50:42.718249: Triggered on Day 6, Moisture Level: 1125, Reason: Significant drop
+2024-11-09 22:50:42.733773: Triggered on Day 17, Moisture Level: 756, Reason: Significant drop
+2024-11-09 22:50:42.733773: Triggered on Day 20, Moisture Level: 645, Reason: Significant drop
+2024-11-09 22:50:42.733773: Triggered on Day 22, Moisture Level: 542, Reason: Significant drop
+2024-11-09 22:50:42.737636: Triggered on Day 23, Moisture Level: 492, Reason: Low moisture
+2024-11-09 22:50:42.737636: Triggered on Day 24, Moisture Level: 426, Reason: Low moisture
+2024-11-09 22:50:42.738646: Triggered on Day 25, Moisture Level: 400, Reason: Low moisture
+2024-11-09 22:50:42.739467: Triggered on Day 26, Moisture Level: 385, Reason: Low moisture
+2024-11-09 22:50:42.740489: Triggered on Day 27, Moisture Level: 376, Reason: Low moisture
+2024-11-09 22:50:42.741499: Triggered on Day 28, Moisture Level: 298, Reason: Low moisture
+2024-11-09 22:50:42.741499: Triggered on Day 29, Moisture Level: 200, Reason: Low moisture
+2024-11-09 22:50:42.742502: Triggered on Day 30, Moisture Level: 189, Reason: Low moisture
+2024-11-09 22:50:42.743638: Triggered on Moisture Level: 350.0, Reason: Low moisture
+2024-11-09 22:50:42.745207: Triggered on Time 6.0h, Moisture Level: 700.0, Reason: Preferred time
+2024-11-09 23:49:16.827109: Triggered on Day 6, Moisture Level: 1125, Reason: Significant drop
+2024-11-09 23:49:16.827326: Triggered on Day 17, Moisture Level: 756, Reason: Significant drop
+2024-11-09 23:49:16.827326: Triggered on Day 20, Moisture Level: 645, Reason: Significant drop
+2024-11-09 23:49:16.827326: Triggered on Day 22, Moisture Level: 542, Reason: Significant drop
+2024-11-09 23:49:16.827326: Triggered on Day 23, Moisture Level: 492, Reason: Low moisture
+2024-11-09 23:49:16.827326: Triggered on Day 24, Moisture Level: 426, Reason: Low moisture
+2024-11-09 23:49:16.827326: Triggered on Day 25, Moisture Level: 400, Reason: Low moisture
+2024-11-09 23:49:16.827326: Triggered on Day 26, Moisture Level: 385, Reason: Low moisture
+2024-11-09 23:49:16.827326: Triggered on Day 27, Moisture Level: 376, Reason: Low moisture
+2024-11-09 23:49:16.842962: Triggered on Day 28, Moisture Level: 298, Reason: Low moisture
+2024-11-09 23:49:16.845796: Triggered on Day 29, Moisture Level: 200, Reason: Low moisture
+2024-11-09 23:49:16.846923: Triggered on Day 30, Moisture Level: 189, Reason: Low moisture
+2024-11-09 23:49:16.850847: Triggered on Moisture Level: 350.0, Reason: Low moisture
+2024-11-09 23:49:16.854447: Triggered on Time 6.0h, Moisture Level: 700.0, Reason: Preferred time

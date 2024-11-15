@@ -1,0 +1,12 @@
+streamlit run App/crop_recommendation_main.py
+streamlit run App/schemes_main.py
+streamlit run App/weather_forecasting_main.py
+streamlit run App/irrigation_system_main.py
+streamlit run App/fertilizer_recommendation_main.py
+streamlit run App/soil_fertility_main.py
+streamlit run App/price_forecasting_main.py
+streamlit run App/smart_farming_main.py
+streamlit run App/app.py
+streamlit run App/pest_disease_main.py
+
+streamlit run Multi-page_App/Home.py
