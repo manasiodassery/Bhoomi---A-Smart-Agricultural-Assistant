@@ -2,14 +2,14 @@ Bhoomi: A Smart Agricultural Assistant
 Bhoomi is an AI-powered platform designed to empower farmers with real-time, data-driven insights to improve crop yield, reduce resource waste, and promote sustainable farming practices. With features like crop and fertilizer recommendations, irrigation management, price forecasting, soil fertility assessment, and government scheme information, Bhoomi offers an all-in-one solution tailored to the unique needs of the agricultural sector.
 
 Features
-Crop Recommendation: Suggests the best crops based on soil composition, weather patterns, and historical data, using a Random Forest model with 99.09% accuracy.
-Fertilizer Recommendation: Provides precise fertilizer recommendations (type and dosage) based on soil nutrients and crop requirements, powered by an XGBoost model.
-Irrigation Management: Dynamically adjusts irrigation schedules based on real-time weather and soil moisture data, optimizing water use.
-Price Forecasting: Predicts future crop prices using an XGBoost model, helping farmers make informed selling decisions.
-Soil Fertility Assessment: Analyzes soil health, classifying fertility levels to guide soil management practices, utilizing a Random Forest model.
-Government Schemes: Provides information on relevant government schemes and subsidies to help farmers access financial support.
-Smart Farming Hub: Offers a knowledge base with FAQs on modern farming techniques and sustainable practices.
-Chatbot Assistance: Google Gemini AI-powered chatbot provides real-time answers to farming-related questions.
+1. Crop Recommendation: Suggests the best crops based on soil composition, weather patterns, and historical data, using a Random Forest model with 99.09% accuracy.
+2. Fertilizer Recommendation: Provides precise fertilizer recommendations (type and dosage) based on soil nutrients and crop requirements, powered by an XGBoost model.
+3. Irrigation Management: Dynamically adjusts irrigation schedules based on real-time weather and soil moisture data, optimizing water use.
+4. Price Forecasting: Predicts future crop prices using an XGBoost model, helping farmers make informed selling decisions.
+5. Soil Fertility Assessment: Analyzes soil health, classifying fertility levels to guide soil management practices, utilizing a Random Forest model.
+6. Government Schemes: Provides information on relevant government schemes and subsidies to help farmers access financial support.
+7. Smart Farming Hub: Offers a knowledge base with FAQs on modern farming techniques and sustainable practices.
+8. Chatbot Assistance: Google Gemini AI-powered chatbot provides real-time answers to farming-related questions.
 
 Methodology
 User Access & Interface Navigation: Farmers access Bhoomi through an intuitive Streamlit interface, available on both desktop and mobile.
@@ -27,16 +27,13 @@ Data Sources: OpenWeather API, Agricultural Market Databases, Government Databas
 Cloud Platform: Deployed using cloud-based infrastructure for scalability
 Chatbot: Google Gemini AI for real-time, interactive support
 
-Installation
-To run Bhoomi locally, follow these steps:
-
 Future Enhancements
 Advanced Yield Prediction: Integrate advanced models for precise yield forecasting.
 Pest & Disease Detection: Implement AI-driven tools for early detection.
 Scalability: Expand cloud infrastructure and mobile functionality to support a larger user base.
 Multi-Language Support: Increase accessibility with additional language options.
 
-Contributing
+Contributions
 We welcome contributions to Bhoomi. Please fork the repository and submit a pull request with any improvements or bug fixes.
 
 License
