@@ -1,0 +1,273 @@
+{
+    "Agriculture Infrastructure Fund": {
+        "Introduction": "A central sector scheme by the Indian government aimed at boosting agriculture infrastructure, especially at the post-harvest stages.",
+        "Implementation Period": "2020-21 to 2032-33",
+        "Budget": "1 lakh crore INR (1 trillion INR)",
+        "Objective": "Mobilize medium- to long-term debt financing for investment in viable projects for post-harvest management infrastructure and community farming assets.",
+        "Eligibility": "Farmer Producer Organizations, agricultural entrepreneurs, and start-ups among others.",
+        "Benefits": {
+            "Interest subvention": "3% per annum on loans up to 2 crore INR",
+            "Credit guarantee": "Support covering credit guarantee fees",
+            "Technical support": "Technical advice and project management services"
+        },
+        "More Information": "https://www.nabard.org"
+    },
+    "PM-Kisan Samman Nidhi": {
+        "Introduction": "A scheme providing income support to all land holding farmer families across India to supplement their financial needs.",
+        "Operational Since": "December 1, 2018",
+        "Support Amount": "6,000 INR per year in three equal installments",
+        "Family Definition": "Husband, wife and minor children",
+        "Exclusion Criteria": "High income status individuals, professionals, and non-farming sectors",
+        "Disbursement": "Direct transfer to the bank accounts of the beneficiaries",
+        "More Information": "https://pmkisan.gov.in"
+    },
+    "ATMA Scheme": {
+        "Full Name": "Agricultural Technology Management Agency",
+        "Goal": "Revitalize agricultural extension services to make them more farmer-driven and accountable.",
+        "Coverage": "Nationwide, in all districts",
+        "Funding": "State and central government",
+        "Focus Areas": {
+            "Farmer mobilization": "Formation of farmer interest groups",
+            "Technology dissemination": "Adoption of innovative farming techniques",
+            "Skill development": "Training in modern agricultural practices"
+        },
+        "More Information": "http://agricoop.nic.in/atma.html"
+    },
+    "Agmarknet": {
+        "Introduction": "An online network for the dissemination of agricultural marketing information including price trends and market arrivals.",
+        "Managed By": "Directorate of Marketing & Inspection, under the Ministry of Agriculture",
+        "Objective": "Provide real time data to farmers to ensure fair pricing",
+        "Features": {
+            "Market data": "Prices, arrivals, commodity-wise, market-wise statistics",
+            "Stakeholder interaction": "Farmers, traders, and market associations",
+            "Training": "Awareness programs on how to utilize market information"
+        },
+        "More Information": "https://agmarknet.gov.in"
+    },
+    "MIDH": {
+        "Full Name": "Mission for Integrated Development of Horticulture",
+        "Introduction": "A government initiative to promote holistic growth of the horticulture sector.",
+        "Operational Period": "Nationwide coverage, focus on boosting horticulture production",
+        "Budget": "Central government funding with state support",
+        "Key Areas": {
+            "Production Enhancement": "Use of quality seeds, organic farming practices",
+            "Post-Harvest Management": "Development of cold chain infrastructure and value addition",
+            "Technology Adoption": "Protected cultivation, precision farming"
+        },
+        "More Information": "https://midh.gov.in"
+    },
+    "Plant Quarantine": {
+        "Managed By": "Directorate of Plant Protection, Quarantine & Storage",
+        "Objective": "Prevent the introduction of exotic pests in India through imported plants and plant products.",
+        "Services": {
+            "Import Permit": "Permits for importing plants and plant products",
+            "Phyto-Sanitary Certificates": "Certification for exported plants to meet international standards",
+            "Online Services": "Application submissions and status tracking through PQIS"
+        },
+        "More Information": "http://plantquarantineindia.nic.in"
+    },
+    "Pradhan Mantri Fasal Bima Yojana": {
+        "Introduction": "A comprehensive insurance scheme for farmers aimed at providing financial support for crop loss/damage due to unforeseen events.",
+        "Operational Since": "2016",
+        "Objectives": [
+            "Provide financial support to farmers suffering crop loss/damage arising out of unforeseen events.",
+            "Stabilize the income of farmers to ensure their continuance in farming.",
+            "Encourage farmers to adopt innovative and modern agricultural practices.",
+            "Ensure flow of credit to the agriculture sector."
+        ],
+        "Coverage": {
+            "Crops": "Food crops (Cereals, Millets and Pulses), Oilseeds, and Annual Commercial and Horticultural crops.",
+            "Risks": [
+                "Prevented Sowing/Planting Risk",
+                "Standing Crop (Sowing to harvesting)",
+                "Post-Harvest Losses",
+                "Localized Calamities"
+            ]
+        },
+        "Technology Use": "Utilization of National Crop Insurance Portal (NCIP) for scheme administration to ensure transparency.",
+        "Premium Subsidy": {
+            "Farmers' Premium Contribution": "2% for Kharif crops, 1.5% for Rabi crops, 5% for commercial and horticultural crops",
+            "Subsidy": "Difference between actuarial premium and farmer's premium, shared equally by Central and State Governments"
+        },
+        "Claim Settlement": "Claims are settled based on the yield data collected at various levels and the losses reported.",
+        "More Information": "https://pmfby.gov.in"
+    },
+    "DBT in Agriculture": {
+        "Introduction": "A framework to ensure the transfer of subsidies directly to the people through a unique identification method, aimed at streamlining the process of monitoring and disbursing funds directly to beneficiaries.",
+        "Operational Since": "Implementation dates vary across states",
+        "Objective": "To ensure that benefits from various agricultural subsidy schemes reach the actual beneficiaries directly without any intermediaries.",
+        "Overview": {
+            "Development": "The Agriculture Informatics Division of the National Informatics Centre (NIC) is developing a centralized DBT portal to consolidate beneficiary and scheme information at a national level.",
+            "Purpose": "This integration aims to facilitate easy monitoring, tracking of beneficiaries, and provision of information to DBT Bharat regarding various agricultural schemes."
+        },
+        "Guidelines for Implementing Web Services": {
+            "Data Mapping": "Beneficiary data must be mapped location-wise with the LG Directory Master or downloaded directly from the Central DBT portal.",
+            "Web Service Integration": "Scheme Management Information Systems (MIS) must integrate using provided web service files with necessary SQL modifications.",
+            "Database Modifications": "Add new columns like 'DBT_Flag' and 'Scheme_code' to existing databases to track data syncing status and scheme identification.",
+            "Web Reference Setup": "Advanced web service references need to be added using the URL provided.",
+            "Data Upload and Verification": "Data uploaded to the Central DBT portal must be followed by verification to ensure accurate data transfer.",
+            "Regular Updates": "Regular updates to the web service reference are necessary to ensure smooth data synchronization."
+        },
+        "Practical Implementation": "Includes practical steps for downloading, integrating web service files, making necessary changes in the code, and running the service.",
+        "Support": "Contact details are provided for obtaining support in case of difficulties during the implementation process.",
+        "Technology Use": "Implementation of centralized software and databases to manage and track fund flows.",
+        "More Information": "https://dbtagriculture.bihar.gov.in"
+    },
+    "Pradhan Mantri Krishi Sinchayee Yojana": {
+        "Introduction": "A comprehensive and integrated national mission aimed at improving farm productivity and ensuring better water use efficiency in agriculture.",
+        "Launched": "In response to the pressing need for water conservation and the initiative to provide 'Har Khet Ko Paani' (water for every field).",
+        "Vision": "To extend the coverage of irrigation ('Har Khet ko Pani') and improve water use efficiency ('Per drop more crop') with end-to-end solutions.",
+        "Objectives": [
+            "Enhance physical access of water to farms and expand cultivable area under assured irrigation.",
+            "Improve on-farm water use efficiency to reduce wastage.",
+            "Enhance the adoption of precision-irrigation and other water saving technologies.",
+            "Ensure integrated development of rainfed areas using the watershed approach.",
+            "Attract greater private investment in irrigation."
+        ],
+        "Strategy": {
+            "Integrated Approach": "Encompasses source creation, distribution, management, and field application solutions to achieve sustainable irrigation.",
+            "Components": {
+                "Accelerated Irrigation Benefit Programme (AIBP)": "Focuses on fast completion of ongoing major and medium irrigation projects.",
+                "Har Khet Ko Pani": "Aims to create new water sources through minor irrigation and renovation of existing water bodies.",
+                "Per Drop More Crop": "Promotes efficient water conveyance and precision water application devices like drips, sprinklers, and rain guns.",
+                "Watershed Development": "Improves soil and moisture conservation measures, rainwater harvesting, and better groundwater recharge."
+            }
+        },
+        "Programme Components": {
+            "Creation of New Water Sources": "Including repair and renovation of traditional water bodies.",
+            "Development of Distribution Networks": "To link created water sources to the farms.",
+            "Promotion of Moisture Conservation": "And water-saving technologies to optimize water use.",
+            "Extension Activities": "Related to water management, crop alignment, and technology dissemination to farmers."
+        },
+        "Financial Allocation and Management": "States must prepare District and State Irrigation Plans as strategic management tools. Fund allocation encourages states to increase budgetary allocation for agriculture and water resources.",
+        "Monitoring and Evaluation": {
+            "Techniques": "Strong emphasis through web-enabled technologies to ensure effective resource use.",
+            "Geo-tagging": "Of assets and real-time data management systems employed to maintain transparency and enhance performance evaluation."
+        },
+        "Impact": "Aims to bring significant improvements in farm productivity and livelihood enhancements through better water management practices, contributing to rural prosperity.",
+        "More Information": "https://pmksy.gov.in"
+    },
+    "Kisan Call Center": {
+        "Introduction": "The Kisan Call Center (KCC) provides a structured way for farmers and various stakeholders to interact with its database using SMS services, facilitating a variety of actions such as getting help, unsubscribing from services, and providing feedback.",
+        "Purpose": "To provide timely and accessible information to farmers through SMS.",
+        "Service Numbers": ["51969", "07738299899"],
+        "Language": "Currently, the service is available only in English due to the ubiquity of English keyboards on phones.",
+        "SMS Commands and Purposes": [
+            {"Sl. No.": 1, "Purpose": "Help", "Command": "KISAAN HELP"},
+            {"Sl. No.": 2, "Purpose": "Unsubscribe from mKisan Portal", "Command": "KISAAN STOP"},
+            {"Sl. No.": 3, "Purpose": "Registration", "Command": "KISAAN REG (Your Name),(first four characters of State),(first four characters of District),(first four characters of block)"},
+            {"Sl. No.": 4, "Purpose": "Feedback", "Command": "KISAAN FEED (first three letters of state) (first three letters of district) (feedback content)"},
+            {"Sl. No.": 5, "Purpose": "Buyer Registration", "Command": "KISAAN BREG (first four characters of Commodity) (price) (dd/mm/yyyy), (first four characters of second commodity) (price) (dd/mm/yyyy)"},
+            {"Sl. No.": 6, "Purpose": "Mandi Price", "Command": "KISAAN MANDI (first three letters of state),(first four characters of District),(first four characters of Mandi),(first four characters of commodity)"},
+            {"Sl. No.": 7, "Purpose": "KCC Advisory Rating", "Command": "KISAAN KCCFEED <1 to 5 Rating>"},
+            {"Sl. No.": 8, "Purpose": "SMS Advisory Rating", "Command": "KISAAN SMSFEED <Message ID> <1 to 5 Rating>"},
+            {"Sl. No.": 9, "Purpose": "USSD Registration", "Command": "KISAAN USSD Yes"},
+            {"Sl. No.": 10, "Purpose": "ATMA training feedback", "Command": "KISAAN ATMA <TRAINING_ID>,<FEEDBACK_NUMBER_VALUE>"},
+            {"Sl. No.": 11, "Purpose": "Verify Dealer/ Manufacturer/ Importer OTP", "Command": "KISAAN FQCS <OTP>"}
+        ],
+        "Key Points": {
+            "Commands are case-sensitive": "The commands must be typed exactly as shown.",
+            "Specific format required": "Each command has a specific format that needs to be followed, including the appropriate placeholders for information such as names, dates, and numerical ratings.",
+            "Feedback and ratings": "These commands allow users to give feedback on services or rate the advisory services received, which helps in improving the quality of information and services provided."
+        },
+        "More Information": "https://mkisan.gov.in"
+    },
+    "Jaivik Kheti": {
+        "Introduction": "Jaivik Kheti, also known as Organic Farming, involves guidelines on the Participatory Guarantee System (PGS) in India to ensure organic integrity of products from small domestic producers under the National Mission for Sustainable Agriculture.",
+        "Managed By": "National Centre of Organic Farming, Ministry of Agriculture",
+        "Key Concept": "The Participatory Guarantee System (PGS) is a decentralized, non-third-party organic certification system designed for small farmers and focused on local markets.",
+        "Location": "Managed through regional and zonal centers across India.",
+        "Key Elements": {
+            "Participatory Guarantee System (PGS)": "A process where groups of farmers guarantee each other's adherence to organic standards, supported by stakeholders like consumers.",
+            "Features": {
+                "Local Relevance": "Tailored to the specific needs and circumstances of local farming communities.",
+                "Shared Vision and Trust": "Builds trust and promotes transparency in organic certification through a shared vision.",
+                "Horizontal Structure": "Encourages an egalitarian approach where decisions and responsibilities are shared at the group level."
+            }
+        },
+        "Structure and Operational Mechanism": {
+            "Local Groups": "Farmers form groups to implement PGS, ensuring adherence to organic standards collectively.",
+            "Regional Councils": "Coordinate and oversee the certification process, ensuring compliance with national standards.",
+            "Zonal Councils": "Provide support and coordination among regional councils, addressing larger geographical challenges.",
+            "NCOF": "Acts as the secretariat for PGS-India, providing guidelines, capacity building, and monitoring compliance."
+        },
+        "Certification Process": {
+            "Conversion Period": "Farmers and their land undergo a conversion period from conventional to organic practices, monitored by peers.",
+            "Maintenance": "Certification is maintained through regular peer reviews and updates to practices, ensuring continuous adherence to standards."
+        },
+        "Advantages": {
+            "Cost-Effective": "Less bureaucratic and more cost-effective than third-party certification.",
+            "Community Support": "Enhances local knowledge and supports community involvement in organic farming.",
+            "Inclusivity": "Provides an inclusive and empowering approach to certification, accessible to smallholder farmers."
+        },
+        "Limitations": {
+            "Market Reach": "Limited to local or domestic markets, not recognized internationally which may limit market access for some products."
+        },
+        "More Information": "https://jaivikkheti.in"
+    },
+    "e-NAM": {
+        "Introduction": "An innovative initiative by the Government of India to create a unified national market for agricultural commodities by leveraging technology.",
+        "Initiated": "2015, with budget allocations following successive budget announcements in 2014-15 and 2015-16.",
+        "Budget": "₹200 crore for the establishment of a common e-market platform across 585 selected wholesale markets by March 2018.",
+        "Managed By": "Small Farmers Agribusiness Consortium (SFAC).",
+        "Objectives": {
+            "Integration of Markets": "Integrate agricultural markets first at the state level and eventually across the country through a common online platform to facilitate pan-India trade.",
+            "Streamlined Transactions": "Standardize marketing and transaction procedures across markets to promote efficient market functioning.",
+            "Access and Transparency": "Enable online access to more markets for farmers, removing informational asymmetries and providing real-time price discovery based on actual demand and supply.",
+            "Quality Assurance": "Establish quality assaying systems to ensure the quality of produce, supporting informed bidding by buyers.",
+            "Stable Prices and Availability": "Assist in moderating price volatility and improving the availability of quality produce to consumers."
+        },
+        "Scheme Design": {
+            "Virtual Market with Physical Support": "While transactions and registrations occur online, actual trading will still necessitate physical presence in markets.",
+            "Centralized Software": "Developed and provided free of cost to markets, customizable to state-specific marketing regulations.",
+            "Eligibility Criteria": "States must reform their APMC Acts to support single trading licenses valid across the state, a single-point levy of market fees, and provisions for e-auction/e-trading."
+        },
+        "Implementation Strategy": {
+            "Mandatory Market Reforms": "Participating states/UTs need to undertake mandatory agricultural marketing reforms.",
+            "Hardware and Connectivity": "One-time grants are provided for purchasing necessary hardware, internet connections, and assaying equipment.",
+            "Training and Support": "SFAC, through a strategic partner, offers training and hand-holding support to market stakeholders."
+        },
+        "Monitoring and Evaluation": {
+            "Project Appraisal Committee (PAC)": "Oversees the sanctioning of grants and assesses the compliance and performance of the markets under e-NAM."
+        },
+        "Impact": {
+            "Efficiency and Transparency": "Aims to make agricultural marketing more efficient through transparency, better price discovery mechanisms, and broader access to markets for farmers.",
+            "Farmer Empowerment": "Helps farmers get better prices for their produce and reduces their dependency on intermediaries by enabling direct market access."
+        },
+        "More Information": "https://enam.gov.in"
+    },
+    "Guidelines for Outsourcing of Soil Samples Analysis Under Soil Health Card Scheme": {
+        "Purpose": "Soil analysis of 12 parameters is essential for optimizing and enhancing fertilizer use efficiency, which helps increase farmer income by reducing fertilizer consumption.",
+        "Outsourcing Guidelines": {
+            "Accreditation Requirements": {
+                "Registration": "Agencies must be registered under the Companies Act/Indian Partnership Act/Central/State Act.",
+                "Accreditation": "Preferably agencies having National Accreditation Board for Testing and Calibration Laboratories (NABL) accredited soil testing labs to be engaged.",
+                "Experience": "Official of the outsourcing agency must have a minimum of 5 years experience in testing soil parameters required in SHC."
+            },
+            "Laboratory Requirements": {
+                "Technical Assistants": "Should possess at least BSC (Agri.) or Science with Chemistry with adequate knowledge of computer.",
+                "Laboratory Attendants": "Should be at least matric pass."
+            },
+            "Documentation Requirements": {
+                "Staff Bio-data": "Full bio-data (including qualification and experience) of all the staff to be engaged for the soil analysis job.",
+                "Agency Track Record": "Full track record of the agency in respect of the competence and capabilities for soil testing.",
+                "Equipment Functionality": "An undertaking/certificate towards the full functioning, performance & capacity of each equipment/machine to be used for soil analysis."
+            },
+            "Contractual Requirements": {
+                "Outsource Flexibility": "States are at liberty to outsource the entire job or part of it as per their requirement and urgency.",
+                "Data Confidentiality": "Agencies must hand over the entire set of soil test data to the department before the expiry of the contract and before the final payment is released."
+            },
+            "Quality Control": {
+                "Cross Checking": "At least 1% soil samples should be referred to the standard referral laboratories for cross-checking to ensure the accuracy and reproducibility of the soil test results."
+            },
+            "Criteria for Disqualification": {
+                "Insolvency": "Agencies facing any insolvency proceedings in the court of law.",
+                "Data Mismanagement": "Agencies found fudging/distorting data will be immediately terminated and blacklisted."
+            },
+            "Dispute Resolution": {
+                "Authority": "Disputes, if any, would be resolved by the Agriculture Production Commissioner or Principal Secretary Agriculture or Director of Agriculture.",
+                "Binding Decision": "His decision will be binding on the agencies."
+            }
+        }
+    }
+}
